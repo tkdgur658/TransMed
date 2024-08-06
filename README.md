@@ -1,4 +1,4 @@
-# PyTorch Implementation of # TransMed (for pilot study in paper "Multihead Neural Network for Multiple Segmented Images-based Diagnosis of Thyroid-associated Orbitopathy Activity.")
+# PyTorch Implementation of TransMed (for pilot study in paper "Multihead Neural Network for Multiple Segmented Images-based Diagnosis of Thyroid-associated Orbitopathy Activity.")
  
 The preprocessing and architecture can be referenced by a manuscript entitled, "TransMed: Transformers Advance Multi-Modal Medical Image Classification." 
 
